@@ -45,18 +45,18 @@
 * Condition: Okay
 * Price: $10
 
-![cart](cart.jpg)
+![cart](images/cart.jpg)
 
 ## ErGear Dual Monitor Stand
 * https://www.amazon.com/dp/B085Y4HW8S
 * Condition: Good
 * Price: $10
 
-![arms](arms.jpg)
+![arms](images/arms.jpg)
 
 ## Lamicall Gooseneck Tablet Mount Holder
 * https://www.amazon.com/dp/B07Y84SCR6
 * Condition: Good
 * Price: $5
 
-![mount](mount.jpg)
+![mount](images/mount.jpg)
