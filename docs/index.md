@@ -1,3 +1,9 @@
+<style>
+.site-title, h1:first-of-type {
+    display: none !important;
+  }
+</style>
+
 # Building 24 Online Yard Sale
 
 * Will deliver to your doorstep or you can pickup
