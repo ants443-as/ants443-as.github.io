@@ -37,7 +37,7 @@
 * Price $300
 
 ![guitar](images/guitar1.jpg)
-![guitar](images/guitar2.jpg)
+![guitar2](images/guitar2.jpg)
 
 ## IKEA LACK side tables
 * Includes four tables, white and black
@@ -47,21 +47,21 @@
 ![lack](images/lack.jpg)
 
 ## Mobile TV Cart with Wheels for 23-55 Inch Flat Screen TVs
-* https://www.amazon.com/dp/B0BYSC5TG5
+* [https://www.amazon.com/dp/B0BYSC5TG5](https://www.amazon.com/dp/B0BYSC5TG5)
 * Condition: Okay
 * Price: $10
 
 ![cart](images/cart.jpg)
 
 ## ErGear Dual Monitor Stand
-* https://www.amazon.com/dp/B085Y4HW8S
+* [https://www.amazon.com/dp/B085Y4HW8S](https://www.amazon.com/dp/B085Y4HW8S)
 * Condition: Good
 * Price: $10
 
 ![arms](images/arms.jpg)
 
 ## Lamicall Gooseneck Tablet Mount Holder
-* https://www.amazon.com/dp/B07Y84SCR6
+* [https://www.amazon.com/dp/B07Y84SCR6](https://www.amazon.com/dp/B07Y84SCR6)
 * Condition: Good
 * Price: $5
 
