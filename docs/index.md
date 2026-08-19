@@ -66,3 +66,7 @@
 * Price: $5
 
 ![mount](images/mount.jpg)
+
+## QR
+
+![QR](images/website.png)
